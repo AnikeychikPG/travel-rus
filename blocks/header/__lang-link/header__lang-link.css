@@ -1,0 +1,16 @@
+.header__lang-link {
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 28px;
+  padding-top: 19px;
+  color: #fff;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 320px) {
+  .header__lang-link {
+    padding-top: 14px;
+    font-size: 18px;
+    line-height: 20px;
+  }
+}

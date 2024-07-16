@@ -1,0 +1,11 @@
+.header__lang-menu {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  gap: 19px;
+}
+
+.header__lang-menu li {
+  display: flex;
+}
