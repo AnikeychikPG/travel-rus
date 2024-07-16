@@ -1,0 +1,6 @@
+@import url(/blocks/intro/intro.css);
+@import url(/blocks/intro/__title/intro__title.css);
+@import url(/blocks/intro/__text/intro__text.css);
+@import url(/blocks/intro/__list/intro__list.css);
+@import url(/blocks/intro/__list-fact/intro__list-fact.css);
+@import url(/blocks/intro/__list-fact/_bold-text/intro__list-fact_bold-text.css);

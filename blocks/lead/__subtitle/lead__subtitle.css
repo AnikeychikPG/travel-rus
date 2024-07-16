@@ -8,7 +8,7 @@
   text-align: center;
 }
 
-@media screen and (max-width: 710px) {
+@media screen and (max-width: 720px) {
   .lead__subtitle {
     max-width: 288px;
     padding-top: 16px;
