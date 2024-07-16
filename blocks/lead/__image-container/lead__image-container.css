@@ -1,0 +1,13 @@
+.lead__image-container {
+  margin: 0 auto;
+  width: 100%;
+  padding-top: 56px;
+  display: flex;
+  flex-direction: column;
+}
+
+@media screen and (min-width: 1240px) {
+  .lead__image-container {
+    padding-top: 64px;
+  }
+}
