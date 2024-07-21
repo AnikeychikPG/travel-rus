@@ -1,0 +1,6 @@
+@media screen and (max-width: 734px) {
+  .cover__break-subtitle::after {
+    content: "\A";
+    white-space: pre;
+  }
+}
